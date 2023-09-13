@@ -12,7 +12,7 @@
 
 ## Elisama Arturo Calva Moreno
 
-## Estilizacion y uso de fuentes 08/09/2023
+## Estilizacion y uso de fuentes 12/09/2023
 
 ## 10° "A"
 
